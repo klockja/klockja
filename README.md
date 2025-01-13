@@ -1,5 +1,4 @@
 - 👋 Hi, I’m James Klock @klockja
 - 👀 I’m interested in web development, app development, and game development!
-- 🌱 I’m currently learning web development!
 - 💞️ I’m looking to collaborate on web development or game development!
 - 📫 You can reach me at klockja@gmail.com!
